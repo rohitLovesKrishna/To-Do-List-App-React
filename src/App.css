@@ -1,0 +1,35 @@
+.container.to-do{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
+.desc{
+    font-family: cursive;
+}
+.btn.customBtn{
+    background-color: rgb(167, 39, 39);
+    font-size: large;
+    width: 90px;
+    border-radius: 12px;
+}
+.btn.customBtn:hover{
+    background-color: red;
+}
+footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 70px;
+}
+.allBox{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 447px;
+overflow: scroll;
+}
+.allBox::-webkit-scrollbar{
+    display: none;
+}
