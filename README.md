@@ -3,7 +3,7 @@
 ### Terminal Part
 Open Editor 'Suggestion: Use - VS Code' and open terminal from left - upper side tabs. Now just clone this git as below :
 
-`Step 1`:Copy this and paste it in your terminal: git clone https://github.com/rohitLovesKrishna/whatsapp-clone-react.git
+`Step 1`:Copy this and paste it in your terminal: git clone https://github.com/rohitLovesKrishna/To-Do-List-App-React.git
 
 `Step 2`: npm install (this will install node modules in the directory)
 
